@@ -11,10 +11,10 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
-import com.xxmustafacooTR.kernelmanager.R;
-import com.xxmustafacooTR.kernelmanager.utils.AppSettings;
-import com.xxmustafacooTR.kernelmanager.utils.kernel.sound.MoroSound;
-import com.xxmustafacooTR.kernelmanager.views.recyclerview.RecyclerViewItem;
+import com.kawa.kernelmanager.R;
+import com.kawa.kernelmanager.utils.AppSettings;
+import com.kawa.kernelmanager.utils.kernel.sound.MoroSound;
+import com.kawa.kernelmanager.views.recyclerview.RecyclerViewItem;
 
 import java.util.ArrayList;
 import java.util.List;

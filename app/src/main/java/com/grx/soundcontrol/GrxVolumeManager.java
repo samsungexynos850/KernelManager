@@ -12,11 +12,11 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.xxmustafacooTR.kernelmanager.database.Settings;
-import com.xxmustafacooTR.kernelmanager.utils.AppSettings;
-import com.xxmustafacooTR.kernelmanager.utils.kernel.sound.MoroSound;
-import com.xxmustafacooTR.kernelmanager.views.recyclerview.RecyclerViewItem;
-import com.xxmustafacooTR.kernelmanager.R;
+import com.kawa.kernelmanager.database.Settings;
+import com.kawa.kernelmanager.utils.AppSettings;
+import com.kawa.kernelmanager.utils.kernel.sound.MoroSound;
+import com.kawa.kernelmanager.views.recyclerview.RecyclerViewItem;
+import com.kawa.kernelmanager.R;
 
 import java.util.HashMap;
 

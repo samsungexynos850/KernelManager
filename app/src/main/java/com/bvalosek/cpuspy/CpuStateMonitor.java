@@ -12,8 +12,8 @@ import android.os.SystemClock;
 import androidx.annotation.NonNull;
 import android.util.SparseArray;
 
-import com.xxmustafacooTR.kernelmanager.utils.Utils;
-import com.xxmustafacooTR.kernelmanager.utils.kernel.cpu.CPUFreq;
+import com.kawa.kernelmanager.utils.Utils;
+import com.kawa.kernelmanager.utils.kernel.cpu.CPUFreq;
 
 import java.util.ArrayList;
 import java.util.Collections;
